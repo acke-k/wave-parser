@@ -13,7 +13,6 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class WavParser {
-
     /**
      * Creates a tree of Chunk objectes from a .wav file.
      * @param filePath The path to the .wav file
